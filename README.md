@@ -1,82 +1,70 @@
-# 👑 Montero Lucas Damián
-## 💻 Software Development Student
+### 👑 Montero Lucas Damián
 
-<table width="100%">
-  <tr>
-    <td bgcolor="#1f2328">
-      <font color="#58a6ff" size="4">
-        Hi, I´m Montero Lucas Damián Software Development Student I´m a Software Development student at Instituto Superior de Formación Docente y Técnica Nº26, Argentina. I´m currently developing my programming and leaming how to design, build and maintain software applications.  I´m interested in technology, problema-solving and leaming new tolos and programming languages. My goa lis to gain practical ex perience and continue growing as a software developer
-      </font>
-    </td>
-  </tr>
-</table>
+### 💻 Estudiante de Desarrollo de Software
 
----
+****
 
-### 📚 <font color="#2ba640">Education</font>
-* **Course:** Higher Technical Degree in Software Development
-* **Intitucion:** Instituto Superior de Formación Docente y Técnica Nº26
-* **Year of Study:** Second Year
-* **Location:** Argentrina
+### 📚 Educación
 
----
+* **Carrera:** Tecnicatura Superior en Desarrollo de Software
+* **Institución:** Instituto Superior de Formación Docente y Técnica N° 26
+* **Estado:** Segundo año en curso
+* **Ubicación:** Argentina
 
-### 🛠️ <font color="#2ba640">Technical Skills</font>
-* **Programming Lenguages:** Pascal, Delphi, Clarion, C, C++, Java, Python
-* **Web Development / Frontend:** HTML5, CSS3, React, Next.js, JavaScript, TypeScript
-* **Backend &Databases:** SQL, MySQL, Postgre, SQLite
-* **Tools:** Git, GitHub, VS Code, Docker, Vercel, Vite
+### 🛠️ Habilidades Técnicas
 
----
+* **Lenguajes de Programación:** Pascal, Delphi, Clarion, C, C++, Java, Python
+* **Desarrollo Web / Frontend:** HTML5, CSS3, React, Next.js, JavaScript, TypeScript
+* **Bases de Datos y Backend:** SQL, MySQL, PostgreSQL, SQLite
+* **Herramientas y Entornos:** Git, GitHub, VS Code, Docker, Vercel, Vite
 
-### 🚀 <font color="#2ba640">Projects</font>
+### 🚀 Proyectos
 
-#### 📂 Project 1: Coordina Asistencia
-* **Description:** Coordina Asistencia is a plataform web desaing for management and control asistence in the jornadas and activities institucional. Allows register asitence for students, teachers and guets, manage participants and query information detaills of each event. Futhermore, it includes features such as GPS-based location tracking, permission managment, and the ability to export records to Excel; all of whitch facilite the tracking, organization, and transparency of instutional attendance.
-* **Technologies:**
-  * **Frontend:** React, TypeScript, Vite, and Material UI (MUI), utilized to build a dynamic, strongly-typed, and responsive user interface.
-  * **Frontend Data Management:** TanStack Query for API requests and Zustand for global state management.
-  * **Backend:** Node.js, TypeScript, and Express, built following Clean Architecture principles to isolate and organize business logic.
-  * **Database:** PostgreSQL hosted on Neon, using Prisma ORM for model management and database queries.
-  * **Authentication & Security:** JWT for authentication, httpOnly cookies for refresh tokens, and a role-based access control (RBAC) permission system.
-  * **Progressive Web App (PWA):** Workbox to enable features like caching and an installable application experience.
-  * **Testing & Quality Assurance:** TypeScript for strict type checking and testing tools to verify system performance.
-  * **Deployment & Hosting:** Vercel for hosting and deploying both the frontend and the backend.
-  * **Version Control:** Git and GitHub for source code management and collaborative development workflow.
-* **GitHub repository:** https://vercel.app
+#### 📂 Proyecto 1: Coordina Asistencia
 
----
+* **Descripción:** Plataforma web diseñada para la gestión, control y registro de asistencia en jornadas y actividades institucionales. El sistema permite registrar la asistencia de alumnos, docentes e invitados, administrar la lista de participantes y consultar el historial detallado de cada evento. Además, incorpora funcionalidades avanzadas como geolocalización basada en GPS para validación de presencia, gestión interna de permisos y exportación de registros a formatos de Excel, optimizando la organización, el seguimiento y la transparencia institucional.
+* **Tecnologías utilizadas:** 
 
-### 📖 <font color="#2ba640">Currently Learning</font>
-* Object-oriented programming
-* Database management
-* Software development practices
-* Version control
+  * **Frontend:** React, TypeScript, Vite y Material UI (MUI), implementados para construir una interfaz de usuario dinámica, con tipado estricto y diseño completamente responsivo.
+  * **Gestión de Estado y Datos:** TanStack Query para la optimización de peticiones API y Zustand para la arquitectura de estado global.
+  * **Backend:** Node.js, TypeScript y Express, desarrollado bajo los principios de Clean Architecture para asegurar el aislamiento y orden de la lógica de negocio.
+  * **Base de Datos:** PostgreSQL en la nube (Neon), utilizando Prisma ORM para el modelado de datos y la optimización de consultas.
+  * **Autenticación y Seguridad:** Autenticación mediante JWT, almacenamiento seguro de tokens de actualización en cookies httpOnly y un sistema de control de acceso basado en roles (RBAC).
+  * **Aplicación Web Progresiva (PWA):** Workbox para habilitar estrategias de cache y ofrecer una experiencia de usuario instalable fuera del navegador.
+  * **Pruebas y Calidad:** TypeScript para verificación estricta de tipos junto con herramientas de pruebas orientadas a validar el rendimiento del sistema.
+  * **Despliegue e Infraestructura:** Vercel para el alojamiento, integración y despliegue continuo (CI/CD) tanto del frontend como del backend.
+  * **Control de Versiones:** Git y GitHub para la gestión del código fuente y flujos de trabajo colaborativos.
+* **Repositorio del Proyecto:** [Coordina Asistencia en Vercel](https://coordina-asistencia.vercel.app)
 
-`WORKING EXPERIENCE??`
+### 📖 Conocimientos en Desarrollo
 
----
+* Programación Orientada a Objetos (POO)
+* Gestión y optimización de bases de datos
+* Buenas prácticas de ingeniería de software
+* Flujos de trabajo y control de versiones
 
-### 🎯 <font color="#2ba640">Goals</font>
-* Build practical software development projects.
-* Improve my programming and problem-solving skills.
-* Learn new technologies and development tools.
-* Collaborate with other developers.
-* Prepare for future opportunities in the software development industry.
+### 💼 Experiencia Laboral
 
----
+* *En búsqueda de mi primera oportunidad profesional en el sector tecnológico para aportar valor en proyectos de desarrollo de software.*
 
-### 🗣️ <font color="#2ba640">Languages</font>
-* **Spanish:** Native
-* **English:** Basic
+### 🎯 Objetivos Profesionales
 
----
+* Diseñar y construir soluciones de software con impacto real en entornos de producción.
+* Potenciar mis habilidades técnicas y metodologías de resolución de problemas.
+* Dominar tecnologías emergentes y herramientas modernas de desarrollo.
+* Colaborar en equipos multidisciplinarios para fomentar las buenas prácticas de desarrollo.
+* Consolidar mi perfil técnico para afrontar los desafíos de la industria del software.
 
-### 📬 <font color="#2ba640">Contact</font>
-* **Email:** lucasdamianmontero@gmail.com
-* **LinkedIn:** www.linkedin.com/in/lucas-damián-montero-35719a369 
-* **GitHub:** https://github.com/Lucasm282021
+### 🗣️ Idiomas
 
----
-Thank you for visiting my profile! I'm always learning and looking forward to new challenges in software development
+* **Español:** Nativo
+* **Inglés:** Básico (Comprensión técnica)
+
+### 📬 Contacto
+
+* **Correo electrónico:** [lucasdamianmontero@gmail.com](mailto:lucasdamianmontero@gmail.com)
+* **LinkedIn:** [Lucas Damián Montero](https://www.linkedin.com/in/lucas-damián-montero-35719a369)
+* **GitHub:** [Lucasm282021](https://github.com/Lucasm282021)
+
+¡Muchas gracias por visitar mi perfil profesional! Me mantengo en constante aprendizaje, motivado y listo para asumir nuevos desafíos de ingeniería de software.
 
